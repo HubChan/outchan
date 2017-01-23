@@ -3,7 +3,7 @@
 define('BOARD_TEXTMODE', true); //false - борда с картинками, true - текстовая борда
 define('BOARD_BLOGMODE', true); //false - все могут создавать треды, true - только админ может создавать треды.
 define('BOARD_PAGETITLE', 'Оверчан'); // Название борды
-define('BOARD_ADMINPASS',  "616161"); // Пароль админ-панели
+define('BOARD_ADMINPASS',  "12345"); // Пароль админ-панели
 define('BOARD_MODPASS',    ""); // Оставьте пустым, чтобы отключить
 define('BOARD_THREADSPERPAGE', 10);
 define('BOARD_REPLIESTOSHOW',  1);
